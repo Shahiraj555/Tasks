@@ -1,0 +1,20 @@
+
+2022-07-01 12:14:56,773 we read successfully
+2022-07-01 13:54:57,570 this is situation
+2022-07-01 13:54:57,570 [Errno 2] No such file or directory: 'divisi.log'
+Traceback (most recent call last):
+  File "C:\Users\shahi\Documents\Zoom\data_science_work_ineuron\PycharmProjects\sai\.idea\classes pratices\nw.py", line 6, in <module>
+    with open('divisi.log','r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'divisi.log'
+2022-07-01 13:54:59,903 this is situation
+2022-07-01 13:54:59,903 [Errno 2] No such file or directory: 'divisi.log'
+Traceback (most recent call last):
+  File "C:\Users\shahi\Documents\Zoom\data_science_work_ineuron\PycharmProjects\sai\.idea\classes pratices\nw.py", line 6, in <module>
+    with open('divisi.log','r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'divisi.log'
+2022-07-01 13:55:02,749 this is situation
+2022-07-01 13:55:02,749 [Errno 2] No such file or directory: 'divisi.log'
+Traceback (most recent call last):
+  File "C:\Users\shahi\Documents\Zoom\data_science_work_ineuron\PycharmProjects\sai\.idea\classes pratices\nw.py", line 6, in <module>
+    with open('divisi.log','r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'divisi.log'
